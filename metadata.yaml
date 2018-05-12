@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33073
     wikipedia: http://en.wikipedia.org/wiki/Thomas_J._Wertenbaker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28472#Patrician-and-PlebeianOr-The-Origin-and-Development-of-the-Social-Classes-of-the-Old-Dominion
 gutenberg_issued: '2009-04-02'
 gutenberg_type: Text
 identifiers:
